@@ -2,7 +2,7 @@ const msalConfig = {
     auth: {
       clientId: "e3681511-37f9-41d1-a8f3-d4763a313002",
       authority: "https://login.microsoftonline.com/a9d90964-91d3-4c01-ab00-563f95f00a38",
-      redirectUri: "http://localhost:8000",
+      redirectUri: "https://arnabdas-protiviti.github.io/chatbot-poc/",
     },
     cache: {
       cacheLocation: "sessionStorage", // This configures where your cache will be stored
